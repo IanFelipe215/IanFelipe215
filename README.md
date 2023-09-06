@@ -27,9 +27,6 @@
     <a href='https://developer.mozilla.org/en-US/docs/Web/CSS'>
       <img src="https://skillicons.dev/icons?i=css"/>
     </a>
-    <a href='https://tailwindui.com/'>
-     <img src="https://skillicons.dev/icons?i=tailwind"/>
-    </a>
     <a href='https://git-scm.com/'>
       <img src="https://skillicons.dev/icons?i=git"/>
     </a>
@@ -38,13 +35,6 @@
     </a>
      <a href='www.mongodb.com/'>
      <img src="https://skillicons.dev/icons?i=mongodb"/>
-    </a>
-     <a href='https://jestjs.io/pt-BR/'>
-     <img src="https://skillicons.dev/icons?i=jest"/>
-    </a>
-     <a href='https://vercel.com'>
-     <img src="https://skillicons.dev/icons?i=vercel"/>
-    </a>
  </p>
 </div>
 
