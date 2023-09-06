@@ -1,6 +1,6 @@
 # Ian-Felipe
 
-<h1 align="left"><img src="https://https://github.com/EvanderInacio/EvanderInacio/blob/main/images/computer-illustration.png.gif?raw=true" width="30"> 
+<h1 align="left"><img src="https://github.com/EvanderInacio/EvanderInacio/blob/main/images/computer-illustration.png.gif?raw=true" width="30"> 
 
 ## Tech Stack
 
