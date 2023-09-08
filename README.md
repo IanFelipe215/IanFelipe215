@@ -30,9 +30,6 @@
     <a href='https://git-scm.com/'>
       <img src="https://skillicons.dev/icons?i=git"/>
     </a>
-    <a href='https://www.mysql.com'>
-     <img src="https://skillicons.dev/icons?i=mysql"/>
-    </a>
      <a href='www.mongodb.com/'>
      <img src="https://skillicons.dev/icons?i=mongodb"/>
  </p>
